@@ -1,2 +1,6 @@
-# Hello-Github
-Just a demo showing how to using github
+# GitHub是什么？
+GitHub是一个分布式管理工具,可能有人想起我们常用的svn等，他们有类似的地方，但也有比较大的区别。
+## 使用github的桌面工具
+## 使用Git命令行
+# 创建自己的GitHub
+
