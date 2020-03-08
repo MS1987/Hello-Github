@@ -21,8 +21,8 @@ GitHub是一个基于Git的代码托管仓库，你可以在上面进行公开�
 ## 切换项目不同分支 ##
 一般开发项目都会有不同的分支，比如一般默认是master，也会有bugfix等，例如marlin会有1.1.x/2.0.x/等。点击项目“Branch:”可以查看/切换到不同分支。
 
-
-# 那Git是什么  #
+** 以下对研发人员需要更深一步了解Github进行普及 **
+# Git是什么  #
 Git是一个分布式版本管理工具,可能有人想起我们经常使用的svn等，他们有类似的地方，但也有比较大的区别。
 
 - 相同点：都可以进行常见的版本控制，例如版本check、commit、branch等等
@@ -130,6 +130,7 @@ Git是一个分布式版本管理工具,可能有人想起我们经常使用的s
 	git fetch origin
 	git reset --hard origin/master
 
-# 创建自己的GitHub#
+# 创建自己的GitHub #
+除了上述clone版本外，当然可以创建自己的项目
 
-## 使用github的桌面工具
+## 使用github的桌面工具 ##
